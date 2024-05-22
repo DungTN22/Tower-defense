@@ -1,5 +1,5 @@
 # Tác giả 
--Nguyễn Tiến Dũng
+Nguyễn Tiến Dũng
 -23020592
 
 # Mô tả
@@ -7,26 +7,27 @@
 và zombie sẽ trâu hơn sau mỗi đợt sóng khiến ta vô cùng khó khăn trong việc chống lại chúng ,chính vì vậy ta cần phải có chiến lược khôn
 khéo trong việc xây dựng cũng như nâng cấp thành để vượt qua nhiều đợt sóng nhất có thể
 
-![Screenshot 2024-05-22 225953](https://github.com/DungTN22/game/assets/161128678/63491d74-8c0f-4400-a7e9-cf83e123eef0)
-
-
+![Screenshot 2024-05-22 225953](https://github.com/DungTN22/Tower-defense/assets/161128678/43be197e-dbc5-43bb-93e1-677043ae0e17)
 
 - Người chơi có điểm cao nhất sẽ được lưu danh vào sử sách của game
 
-![Screenshot 2024-05-22 224831](https://github.com/DungTN22/game/assets/161128678/006228c3-68b9-4459-9b44-d4029c9036b2)
+![Screenshot 2024-05-22 224831](https://github.com/DungTN22/Tower-defense/assets/161128678/c0328481-a23a-4058-a3db-13fc8c888507)
+
 
 # Cách chơi
 -Bấm vào nhưng ô đất trống mua những tòa thành để tiêu diệt thây ma đang cố gắng tiến về đích (phải đủ tiền nhé). 
 
 -Hãy khôn ngoan trong việc nâng cấp và mua thành mới để có thể vượt qua nhiều đợt sóng nhất.
 
-![Screenshot 2024-05-22 224535](https://github.com/DungTN22/game/assets/161128678/80fec879-a9bb-4332-b184-20a0a5b57a13)
+
+![Screenshot 2024-05-22 224535](https://github.com/DungTN22/Tower-defense/assets/161128678/bc0cf939-8957-4c0e-83ef-b2c4537e0c22)
 
 
 
 -**Lưu ý:** game có 3 chế độ chơi, tốc độ của các zombie sẽ tăng dần theo mỗi cấp độ chơi
 
-![Screenshot 2024-05-22 223959](https://github.com/DungTN22/game/assets/161128678/633c7ef6-814f-45e7-99ec-17fc10b87323)
+![Screenshot 2024-05-22 223959](https://github.com/DungTN22/Tower-defense/assets/161128678/8dd25ab7-16dd-47da-b28f-8c65b32ad846)
+
 
 # Nguồn tham khảo
 - Đồ họa [itch.io](https://itch.io/game-assets)
